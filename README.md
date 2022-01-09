@@ -1,2 +1,2 @@
 # Space-Invaders
-This game is developed using Python in PyGame . 
+This game is developed using PyGame in Python . 
